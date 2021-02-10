@@ -1,0 +1,10 @@
+flake8==3.8.2
+Pillow
+pyyaml
+sentencepiece
+tensorboard
+tensorboardX
+typeguard
+torch==1.6.0
+torchaudio
+sentencepiece
